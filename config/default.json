@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://csfarhan:%406976Farhan@devmeet.voa2xha.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://csfarhan:%406976Farhan@devmeet.voa2xha.mongodb.net/?retryWrites=true&w=majority",
+    "jwtToken": "mysecrettoken"
 }
